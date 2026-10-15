@@ -13,3 +13,7 @@ env/
 # Настройки сред разработки
 .idea/
 .vscode/
+
+# Секретні файли з паролями
+pass-mongoDB.docx
+~$ss-mongoDB.docx
