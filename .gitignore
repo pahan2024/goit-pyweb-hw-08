@@ -1,19 +1,19 @@
-# Секретные данные
+# Секретні файли з паролями та доступами
 .env
+pass-mongoDB.docx
+~$ss-mongoDB.docx
 
-# Системный кэш Python
+# Системний кєш Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Виртуальное окружение
+# Віртуальне оточення
 venv/
 .venv/
 env/
 
-# Настройки сред разработки
+# Налаштування середовищ розробки (IDE)
 .idea/
 .vscode/
-
-# Секретні файли з паролями
-pass-mongoDB.docx
-~$ss-mongoDB.docx
